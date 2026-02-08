@@ -1,0 +1,5 @@
+{
+  "name": "Copy of battle-card",
+  "description": "A strategic auto-battler card game where you build a squad of heroes to fight endless waves of AI enemies. Features dynamic enemy generation via Gemini.",
+  "requestFramePermissions": []
+}
